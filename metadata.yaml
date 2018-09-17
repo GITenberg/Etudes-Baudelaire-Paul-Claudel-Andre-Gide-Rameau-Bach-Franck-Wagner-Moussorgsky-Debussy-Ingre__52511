@@ -1,0 +1,41 @@
+_repo: Etudes-Baudelaire-Paul-Claudel-Andre-Gide-Rameau-Bach-Franck-Wagner-Moussorgsky-Debussy-Ingre__52511
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rivière, Jacques
+    alias: Riviere, Jacques
+    birthdate: 1886
+    deathdate: 1925
+    gutenberg_agent_id: '46902'
+    url: http://www.gutenberg.org/2009/agents/46902
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Musique
+- FR Peinture
+gutenberg_issued: '2016-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52511'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painters -- France'
+- !lcsh 'Gide, André, 1869-1951'
+- !lcc 'PQ'
+- !lcsh 'Music'
+- !lcsh 'Claudel, Paul, 1868-1955'
+- !lcsh 'Baudelaire, Charles, 1821-1867'
+- GITenberg
+tableOfContents: 'Baudelaire -- Des peintres: Ingres. Cézanne. Une exposition de Henri-Matisse.
+  Une exposition de Georges Rouault. Gauguin -- Paul Claudel -- Des musiciens: Dardanus
+  de Rameau. La Passion selon St. Jean de J. S. Bach. César Franck. Tristan et Isolde
+  de Wagner. Ariane et Barbe Bleue de Paul Dukas. La Rhapsodie espagnole de Maurice
+  Ravel. Pelléas et Mélisande de Claude Debussy. Les poèmes d''orchestre de Claude
+  Debussy. Les Scènes Polovtsiennes du Prince Igor de Borodine. Moussorgsky -- André
+  Gide.'
+title: 'Études: Baudelaire, Paul Claudel, André Gide, Rameau, Bach, Franck, Wagner,
+  Moussorgsky, Debussy, Ingres, Cézanne, Gauguin'
+url: http://www.gutenberg.org/ebooks/52511
